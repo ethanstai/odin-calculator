@@ -1,0 +1,31 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    background-color: gray;
+    border-width: 3px;
+    border-color: gray;
+    border-style: solid;
+    padding: 15px;
+}
+#display {
+    width: 368px;
+    height: 125px;
+    background-color: buttonface;
+    text-align: right;
+}
+
+.bigBtn {
+    width: 185px;
+    height: 92.5px;
+}
+
+.normBtn {
+    width: 92.5px;
+    height: 92.5px;
+    
+}
+
