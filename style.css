@@ -16,6 +16,7 @@
     height: 125px;
     background-color: buttonface;
     text-align: right;
+    font-size: 50px;
 }
 
 .bigBtn {
@@ -23,9 +24,9 @@
     height: 92.5px;
 }
 
-.normBtn {
+.normBtn, .opBtn {
     width: 92.5px;
     height: 92.5px;
+    font-size: 40px;
     
 }
-
